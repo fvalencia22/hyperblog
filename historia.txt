@@ -2,4 +2,6 @@ Ok, vamos a comenzar de 0
 
 Esta va a ser la que vamos a commitar primero
 
-Ahora vamos a agregar esto
+Ahora vamos a agregar esto.
+
+Esto en realidad va a desaparecer en un momento.
