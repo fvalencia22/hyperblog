@@ -9,3 +9,9 @@ body
     text-align: right;
     text-size-adjust: 10px;
 }
+#cabecera
+{
+    color: black;
+    text-align: center;
+    font-family: "Courier New";
+}
