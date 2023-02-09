@@ -4,4 +4,6 @@ Esta va a ser la que vamos a commitar primero
 
 Ahora vamos a agregar esto.
 
+Empezare a agregar cosas para hacer un merge
+
 Esto en realidad va a desaparecer en un momento.
